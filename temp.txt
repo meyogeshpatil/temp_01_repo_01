@@ -1,0 +1,2 @@
+hi from temp.txt
+this file has been removed from git. so the next changes has not been reflected  in this file
