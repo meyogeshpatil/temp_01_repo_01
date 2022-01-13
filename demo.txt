@@ -7,3 +7,5 @@ working on diff staged
 
 direct shoft to staging area
 
+practise 01
+
