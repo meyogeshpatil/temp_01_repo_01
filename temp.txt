@@ -1,0 +1,8 @@
+hi from temp.txt
+this file has been removed from git. so the next changes has not been reflected  in this file
+now lets check what will happened 
+
+change that has been made after the explicitly untraced
+
+
+changes that I don't wanted to done

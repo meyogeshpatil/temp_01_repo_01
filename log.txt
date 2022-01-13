@@ -1,0 +1,2 @@
+Hello guys this is yogesh patil from log.txt. This file has been created thrigh git bash terminal.
+after adding to gitignore
